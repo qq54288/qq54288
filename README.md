@@ -24,14 +24,6 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<!--<a href="https://github.com/qq54288/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq54288&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/qq54288/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq54288&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
--->
 💪 正在学习: 
 
 &emsp;&emsp;
@@ -60,14 +52,8 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/qq54288/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qq54288&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/qq54288/photos/images/202108300312623.png" />
 </div>
-<br>
-
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/qq54288/qq54288/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
@@ -77,7 +63,6 @@
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qq54288&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq54288&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
