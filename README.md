@@ -10,7 +10,7 @@
 <br>
 
 <!-- 个人资料徽标 -->
-<div align="center">https://img.shields.io/badge/Github-托管-brightgreen.svg
+<div align="center">
   <a href="http://secbox.tk/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="http://secbox.tk/"><img src="https://img.shields.io/badge/Github-托管-brightgreen.svg"></a>&emsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=qq54288" alt="访客统计" /></div>
